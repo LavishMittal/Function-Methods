@@ -1,4 +1,4 @@
-public class Optimmized_prime_no {
+public class Optimized_prime_no {
     public static boolean isprime(int n){
         boolean isprime = true;
         if (n==2){
