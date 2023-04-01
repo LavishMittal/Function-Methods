@@ -18,10 +18,10 @@ public class prime_in_range {
     public static void Prime_in_range(int n){
         for (int i = 2; i<=n-1; i++){
             if (isprime(i)){
-                System.out.println(" " + i);
+                System.out.print( i +  " ");
             }
         }
-        System.out.println();
+        // System.out.print();
     }
     public static void main(String args[]){
         // Scanner sc = new Scanner(System.in);
